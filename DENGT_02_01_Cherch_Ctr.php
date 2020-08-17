@@ -10,7 +10,7 @@ require_once('../_Sessions/Verif_Ses.php');
 
 //////////////////////////////////////////////////
 //
-//       connexion Mysql
+//       connexion Mysql222
 //
 /////////////////////////////////////////////////
 require_once('Connections/PDO_Prod_Util_AO_BPU.php');
